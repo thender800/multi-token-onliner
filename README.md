@@ -1,2 +1,91 @@
-# multi-token-onliner
-Discord Token onliner 24/7 made by S7 THENDER
+# Multi Token Onliner
+
+made by S7 THENDER 
+
+A simple multi-token Discord onliner built with Node.js using "discord.js-selfbot-v13".
+
+Features
+
+- Multi token support
+- Automatic token loading from ".env"
+- Sequential login system
+- Error handling
+- Clean console logs
+- Easy deployment on VPS / Render / Railway
+
+---
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+Install dependencies:
+
+npm install
+
+---
+
+Setup
+
+Create a ".env" file in the root folder.
+
+Example:
+
+TOKEN1=your_token_here
+TOKEN2=your_token_here
+TOKEN3=your_token_here
+
+You can add unlimited tokens.
+
+---
+
+Start The Bot
+
+Run:
+
+npm start
+
+or
+
+node onliner.js
+
+---
+
+Project Structure
+
+.
+├── onliner.js
+├── package.json
+├── .env
+└── README.md
+
+---
+
+Requirements
+
+- Node.js 18+
+- npm
+
+---
+
+Dependencies
+
+- dotenv
+- discord.js-selfbot-v13
+
+---
+
+Notes
+
+- Tokens are loaded automatically from environment variables.
+- Tokens login one by one with delay to avoid rate limits.
+- Keep your ".env" private.
+
+---
+
+License
+
+MIT License
