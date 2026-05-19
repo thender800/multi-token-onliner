@@ -54,16 +54,6 @@ node onliner.js
 
 ---
 
-Project Structure
-
-.
-├── onliner.js
-├── package.json
-├── .env
-└── README.md
-
----
-
 Requirements
 
 - Node.js 18+
