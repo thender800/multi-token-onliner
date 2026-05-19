@@ -23,6 +23,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/thender800/multi-token-onliner.git
+
 cd multi-token-onliner
 
 Install dependencies:
