@@ -1,6 +1,9 @@
 # Multi Token Onliner
 
-made by S7 THENDER 
+# made by S7 THENDER 
+
+support 
+https://discord.gg/5guGU6tfTU
 
 A simple multi-token Discord onliner built with Node.js using "discord.js-selfbot-v13".
 
