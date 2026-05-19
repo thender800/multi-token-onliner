@@ -65,7 +65,7 @@ Dependencies
 
 - dotenv
 - discord.js-selfbot-v13
-
+- debug
 ---
 
 Notes
