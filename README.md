@@ -58,7 +58,7 @@ npm start
 
 or
 
-node onliner.js
+node main.js
 
 ---
 
