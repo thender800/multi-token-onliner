@@ -18,7 +18,11 @@ Features
 
 ---
 
-Installation
+Termux Installation
+
+pkg update && pkg upgrade -y
+
+pkg install git nodejs -y
 
 Clone the repository:
 
