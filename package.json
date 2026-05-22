@@ -1,0 +1,19 @@
+{
+  "name": "multi-token-onliner",
+  "version": "1.0.0",
+  "description": "Discord multi token onliner",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "debug": "node --trace-warnings onliner.js"
+  },
+  "dependencies": {
+    "debug": "^4.3.7",
+    "discord.js-selfbot-v13": "^3.6.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
